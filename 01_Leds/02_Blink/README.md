@@ -10,8 +10,8 @@ Quando a GPIO 2 do ESP estiver em nível lógico alto (ligada), o LED acenderá.
 
 
 <p align="center">
-    <img src="images/falstadCircuit.gif" alt="Circuito Falstad" width="50%"></img>
-    <img src="images/wokwiCircuit.gif" alt="Circuito Wokwi" width="41%"></img>
+    <img src="Images/falstadCircuit.gif" alt="Circuito Falstad" width="50%"></img>
+    <img src="Images/wokwiCircuit.gif" alt="Circuito Wokwi" width="41%"></img>
 </p>
 
 [Clique aqui para abrir a simulação](https://wokwi.com/projects/358939452081276929)
