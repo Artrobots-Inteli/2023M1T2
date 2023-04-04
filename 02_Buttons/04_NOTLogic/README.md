@@ -7,8 +7,8 @@ Em eletrônica, a porta NÃO pode ser utilizada em muitos circuitos, inclusive c
 # Circuito com botão de LED
 
 1. Conecte um resistor de 220 ohms à fonte de alimentação, nesse caso, o pino de 3,3V do ESP
-2. Conecte a perna positiva do LED (ânodo) ao resistor.
-3. Conecte a perna negativa do LED (cátodo) à conexão de terra (GND).
+2. Conecte a perna positiva do LED (ânodo) ao resistor
+3. Conecte a perna negativa do LED (cátodo) à conexão de terra (GND)
 4. Adicione um botão que desvia a corrente da saída do resistor direto para a conexão de terra (GND)
 
 <p align="center">

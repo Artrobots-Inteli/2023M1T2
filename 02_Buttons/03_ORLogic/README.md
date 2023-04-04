@@ -13,8 +13,8 @@ Essa lógica pode ser utilizada em muitas situações do dia a dia. Por exemplo,
 # Circuito com botões e LED
 
 1. Conecte um resistor de 220 ohms à fonte de alimentação, nesse caso, o pino de 3,3V do ESP
-2. Conecte a perna positiva do LED (ânodo) ao resistor.
-3. Conecte a perna negativa do LED (cátodo) nas entradas dos botões.
+2. Conecte a perna positiva do LED (ânodo) ao resistor
+3. Conecte a perna negativa do LED (cátodo) nas entradas dos botões
 4. Conecte as saídas dos dois botões à contexão de terra (GND)
 
 Quando um dos botões for pressionado, a corrente elétrica fluirá através do circuito, acendendo o LED. Se nenhum dos botões for pressionado, o circuito permanecerá aberto e o LED permanecerá apagado.

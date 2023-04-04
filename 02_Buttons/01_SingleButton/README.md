@@ -14,9 +14,9 @@ Em resumo, o pushbutton é um componente eletrônico simples, mas muito útil, q
 
 # Ligar um led com um botão
 1. Conecte um resistor de 220 ohms à fonte de alimentação, nesse caso, o pino de 3,3V do ESP
-2. Conecte a perna positiva do LED (ânodo) ao resistor.
-3. Conecte a perna negativa do LED (cátodo) a uma das pernas do botão.
-4. Conecte a outra perna do botão à conexão de terra (GND)..
+2. Conecte a perna positiva do LED (ânodo) ao resistor
+3. Conecte a perna negativa do LED (cátodo) a uma das pernas do botão
+4. Conecte a outra perna do botão à conexão de terra (GND)
 
 Quando o botão é pressionado, ele completa o circuito e permite que a corrente flua através do LED, ligando-o. Quando o botão é liberado, o circuito é interrompido e o LED desliga.
 
