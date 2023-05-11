@@ -129,3 +129,9 @@ dmypy.json
 .pyre/
 
 template/
+
+debug_custom.json
+debug.cfg
+esp32.svd
+.vscode/
+Build/
